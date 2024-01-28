@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200");
+@import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
+
+.MenuTab{
+
+    background-color: #0B1957 ;
+    width: 220px;
+    height: 100vh;
+    font-family: 'Open  Sans', sans-serif;
+}
+
+.Add-WorkFlow-Button{
+    background-color: #9ECCFA;
+    height: 30px;
+    border: none;
+    border-radius: 30px;
+    font-weight: 500px;
+    font-family: 'Open  Sans', sans-serif;
+    font-size: 25px;
+
+}
+
+.Add-Workflow-Div{
+    background-color: #9ECCFA;
+    /* top | right | bottom | left */
+    margin: 20px 20px 20px 20px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  font-size: 25px;
+}
+
+.WorkFlow-Buttons{
+    
+    /* top | right | bottom | left */
+    margin: 15px 15px 15px 15px; 
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.Workflow {
+    background-color: #D1E8FF;
+    /* top | right | bottom | left */
+    margin: 10px 10px 10px 10px; 
+    height: 30px;
+    border-radius: 30px;
+    border:none;
+    justify-content: center;
+    align-items: center;
+
+}
